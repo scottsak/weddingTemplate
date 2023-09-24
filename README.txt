@@ -1,6 +1,6 @@
 
 TITLE: 
-Nuptial - 100% Fully Responsive Free HTML5 Bootstrap Template
+scotttest - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
